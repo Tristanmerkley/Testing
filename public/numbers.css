@@ -1,0 +1,21 @@
+@property --num {
+  syntax: "<integer>";
+  initial-value: 0;
+  inherits: false;
+}
+
+jy {
+  transition: --num 5s;
+  counter-set: num var(--num);
+  font: 800 40px system-ui;
+}
+jy::after {
+  content: counter(num);
+}
+jy:visited {
+  --num: 100;
+}
+
+body {
+  margin: 2rem;
+}
