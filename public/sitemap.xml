@@ -8,8 +8,19 @@
 
 <url>
   <loc>https://tristanmerkley.ca/</loc>
-  <lastmod>2022-03-17T21:19:58+00:00</lastmod>
+  <lastmod>2022-03-29T21:19:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1</priority>
 </url>
-
+<url>
+  <loc>https://tristanmerkley.ca/test</loc>
+  <lastmod>2022-03-17T21:19:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://tristanmerkley.ca/numbers</loc>
+  <lastmod>2022-03-28T21:19:58+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
 
 </urlset>
