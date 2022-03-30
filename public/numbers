@@ -5,7 +5,15 @@
         <title>Number Animation</title>
         <meta name="theme-color" content="#317EFB" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Number Animation!!!!">
+        <meta name="description" content="Cool Number Animation!!!!">
+        <meta name="keywords" content="Tristan, Merkley, Number Annimation">
+        <meta name="author" content="Tristan Merkley">
+        <meta name=”robots” content=”index, follow”>
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Cool Number Annimation" />
+        <meta property="og:description" content="Cool Number Animation!!!!" />
+        <meta property="og:url" content="https://tristanmerkley.ca/numbers" />
+        <meta property="og:site_name" content="Tristan Merkley" />
         <meta name="msapplication-TileColor" content="#FF0000">
         <meta name="msapplication-TileImage" content="static/favicons/favicon-144.png">
         <meta name="msapplication-config" content="static/favicons/browserconfig.xml">

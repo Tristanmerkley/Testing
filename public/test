@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
+
     <head>
         <title>Troll</title>
         <link rel="stylesheet" href="style.css">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Test page with youtube song embed.">
+        <meta name="theme-color" content="#317EFB" />
+        <meta name="keywords" content="Tristan, Merkley, Test page">
+        <meta name="author" content="Tristan Merkley">
+        <meta name=”robots” content=”index, follow”>
+        <meta property="og:type" content="video" />
+        <meta property="og:title" content="Test Page" />
+        <meta property="og:description" content="Test page with youtube song embed." />
+        <meta property="og:url" content="https://tristanmerkley.ca/test" />
+        <meta property="og:site_name" content="Tristan Merkley" />
         <link rel="manifest" href="manifest.json">
         <link rel="shortcut icon" href="static/favicons/favicon.ico">
         <link rel="icon" sizes="16x16 32x32 64x64" href="static/favicons/favicon.ico">
@@ -26,9 +36,12 @@
         <meta name="msapplication-TileColor" content="#FF0000">
         <meta name="msapplication-TileImage" content="static/favicons/favicon-144.png">
         <meta name="msapplication-config" content="static/favicons/browserconfig.xml">
-    </head><body>
+    </head>
+
+    <body>
         <div class="container">
             <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=1" frameborder="0" allowfullscreen class="video"></iframe>
         </div>
     </body>
+
 </html>
